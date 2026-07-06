@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+HW1_DynamicConv/data/images/
+HW1_DynamicConv/results/checkpoints/*.pth
+
